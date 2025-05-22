@@ -1,11 +1,3 @@
-/*
- * ECE 153B
- * 
- * Name(s):
- * Section:
- * Lab: 3B
- */
-
 #include "stm32l476xx.h"
 
 void LED_Pin_Init(void);
