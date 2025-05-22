@@ -1,11 +1,3 @@
-/*
- * ECE 153B
- *
- * Name(s): Tishya Chauhan and Hannah Walker
- * Section: Wed and Tue
- * Lab: 3A
- */
-
 #include "stm32l476xx.h"
 #include "LED.h"
 #include "SysTimer.h"
